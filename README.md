@@ -20,7 +20,10 @@ This script automatically sets up the repository and installs the server using `
 
 #### 🛠️ Install Flussonic
 ```bash
+apt update
+apt install curl -y
 curl -sSf https://flussonic.com/public/install.sh | sh
+
 ```
 
 #### 🔑 Activate Flussonic
