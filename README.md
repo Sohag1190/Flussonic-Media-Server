@@ -1,5 +1,4 @@
-# Flussonic-Media-Server
-Flussonic-Media-Server
+# Flussonic-Media-Server ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSohag1190%2FFlussonic-Media-Server%2F&label=&icon=github&color=%230a58ca&message=&style=for-the-badge&tz=localtime)
 
 **To install Flussonic Media Server on Ubuntu, run the following command in your terminal:**
 
